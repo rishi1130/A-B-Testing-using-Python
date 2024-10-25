@@ -263,13 +263,6 @@ figure.show()
 
 # Although the control campaign resulted in more sales and more products in the cart, the conversation rate of the test campaign is higher.
 
-# Conclusion
-# The results from this A/B test indicate that the control campaign led to higher overall sales and engagement from visitors. The control group saw more product views, more items added to the cart, and more total sales. However, the test campaign showed a stronger conversion rate from cart additions to final sales. This suggests that while the test campaign may be more effective for converting viewers to buyers after adding items to the cart, the control campaign drives a broader range of sales overall.
-
-# Thus, the test campaign could be ideal for targeting a specific product to a niche audience, whereas the control campaign is better suited for promoting a variety of products to a larger audience.
-
-
-
 
 
 
